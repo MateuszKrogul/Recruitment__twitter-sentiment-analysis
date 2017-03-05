@@ -1,4 +1,3 @@
-## About
 The repository was created for recruitment purposes. This project was created in purpose of passing the university course. The motivation was also to practise Python.
 
 # Project description
