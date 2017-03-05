@@ -27,10 +27,10 @@ Info:
 Gaps between blue dots reveal days when stock market is closed. Gaps between orange dots reveal days when program didn’t work because of crashes. Unfortunately current results can’t reveal some interesting correlation or information because not long enough time passed when program was working.
 
 ## Sources
-•	http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
-•	http://help.sentiment140.com/for-students
-•	https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/ (parts 1-7)
-•	Pandas, Plotlym and Python documentation
+- http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
+- http://help.sentiment140.com/for-students
+- https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/ (parts 1-7)
+- Pandas, Plotlym and Python documentation
 
 ## Author
 Mateusz Krogul
