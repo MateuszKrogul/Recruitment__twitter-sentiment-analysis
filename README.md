@@ -29,7 +29,7 @@ Gaps between blue dots reveal days when stock market is closed. Gaps between ora
 - http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
 - http://help.sentiment140.com/for-students
 - https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/ (parts 1-7)
-- Pandas, Plotlym and Python documentation
+- Pandas, Plotly and Python documentation
 
 ## Author
 Mateusz Krogul
